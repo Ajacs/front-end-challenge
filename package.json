@@ -1,0 +1,46 @@
+{
+  "name": "front-end-challenge",
+  "version": "1.0.0",
+  "description": "This is the challenge from Bitso",
+  "main": "index.js",
+  "repository": "https://github.com/Ajacs/front-end-challenge.git",
+  "author": "adderlyjc <ajacs1104@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "classnames": "^2.2.5",
+    "history": "^4.7.2",
+    "immutable": "^3.8.2",
+    "lodash": "^4.17.10",
+    "query-string": "^6.0.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-scripts": "^1.1.4",
+    "react-stockcharts": "^0.7.6",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.2.0",
+    "superagent": "^3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-jest": "^22.4.3",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "node-sass": "^4.9.0",
+    "proptypes": "^1.1.0",
+    "react-test-renderer": "^16.3.2",
+    "redux-mock-store": "^1.5.1",
+    "sass-loader": "^7.0.1",
+    "sinon": "^5.0.4"
+  }
+}
